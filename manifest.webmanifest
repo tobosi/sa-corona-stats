@@ -4,7 +4,7 @@
   "theme_color": "#1976d2",
   "background_color": "#2196f3",
   "display": "standalone",
-  "start_url": "/sa-corona-stats",
+  "start_url": "/sa-corona-stats/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
