@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1585031853166,
+  "timestamp": 1585032904519,
   "index": "/sa-corona-stats/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/sa-corona-stats/favicon.ico",
         "/sa-corona-stats/index.html",
-        "/sa-corona-stats/main-es2015.a8567c784d91a8a076a6.js",
-        "/sa-corona-stats/main-es5.a8567c784d91a8a076a6.js",
+        "/sa-corona-stats/main-es2015.ce5672c91a5a052ef07f.js",
+        "/sa-corona-stats/main-es5.ce5672c91a5a052ef07f.js",
         "/sa-corona-stats/manifest.webmanifest",
         "/sa-corona-stats/polyfills-es2015.77734fcd630731c318eb.js",
         "/sa-corona-stats/polyfills-es5.02e047bf1b4bcf0013f3.js",
@@ -64,10 +64,10 @@
     "/sa-corona-stats/assets/js/materialize.js": "ce991a4a67d3f46f67cae505deba22c7484f63bf",
     "/sa-corona-stats/assets/js/materialize.min.js": "c843f0dc497314574c608ca28cc742bb041786d5",
     "/sa-corona-stats/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/sa-corona-stats/index.html": "1e7115ba50a15c2cfc6dc414f063955534e0de2f",
-    "/sa-corona-stats/main-es2015.a8567c784d91a8a076a6.js": "3251c014737f49159eaf8328c7e0d38c810377ae",
-    "/sa-corona-stats/main-es5.a8567c784d91a8a076a6.js": "424fd65e4028a14f1a5a9e2e31b567a9a2575c63",
-    "/sa-corona-stats/manifest.webmanifest": "ad40c55dabbd2b005b3e59cf47f90afc97ef3f70",
+    "/sa-corona-stats/index.html": "430d07340609dad484ddde46c7d1ac1dca7b72f1",
+    "/sa-corona-stats/main-es2015.ce5672c91a5a052ef07f.js": "40fa6d47d1ed174c7bb57d737d681974dc373a59",
+    "/sa-corona-stats/main-es5.ce5672c91a5a052ef07f.js": "e33ac2c1f1eae93d0387aa4a8f8de5d749136f7f",
+    "/sa-corona-stats/manifest.webmanifest": "894b2d1b7b119c40d973687e7e7db1e8fed61643",
     "/sa-corona-stats/polyfills-es2015.77734fcd630731c318eb.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
     "/sa-corona-stats/polyfills-es5.02e047bf1b4bcf0013f3.js": "8e2c8d4f4f6cc3778fa1c569cf4ccacc48223dd8",
     "/sa-corona-stats/runtime-es2015.1331ccf156217b158133.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
