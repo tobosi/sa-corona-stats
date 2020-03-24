@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1585042930056,
+  "timestamp": 1585043427868,
   "index": "/sa-corona-stats/index.html",
   "assetGroups": [
     {
@@ -81,7 +81,7 @@
     "/sa-corona-stats/index.html": "9a60f1395678085cb71eed0ff836ebd599a1a604",
     "/sa-corona-stats/main-es2015.ca496012c630c8d6651d.js": "073b81e069207df209feeb2b632658b1694f964e",
     "/sa-corona-stats/main-es5.ca496012c630c8d6651d.js": "3a9af71a85e968428f471a59e2714af330bd660f",
-    "/sa-corona-stats/manifest.webmanifest": "ecf5d68414c4836fec60bf54e6a5e90297a644a8",
+    "/sa-corona-stats/manifest.webmanifest": "b05d4bf76cb1267a87284f6f2b39c82d99eccad2",
     "/sa-corona-stats/polyfills-es2015.77734fcd630731c318eb.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
     "/sa-corona-stats/polyfills-es5.02e047bf1b4bcf0013f3.js": "8e2c8d4f4f6cc3778fa1c569cf4ccacc48223dd8",
     "/sa-corona-stats/runtime-es2015.1331ccf156217b158133.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
