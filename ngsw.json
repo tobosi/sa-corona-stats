@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1585328165335,
+  "timestamp": 1585328455152,
   "index": "/sa-corona-stats/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/sa-corona-stats/favicon.ico",
         "/sa-corona-stats/index.html",
-        "/sa-corona-stats/main-es2015.eb4b48dfaca079e4afe3.js",
-        "/sa-corona-stats/main-es5.eb4b48dfaca079e4afe3.js",
+        "/sa-corona-stats/main-es2015.2f497546bd62ef62996a.js",
+        "/sa-corona-stats/main-es5.2f497546bd62ef62996a.js",
         "/sa-corona-stats/manifest.webmanifest",
         "/sa-corona-stats/polyfills-es2015.77734fcd630731c318eb.js",
         "/sa-corona-stats/polyfills-es5.02e047bf1b4bcf0013f3.js",
@@ -66,9 +66,9 @@
     "/sa-corona-stats/assets/js/materialize.js": "ce991a4a67d3f46f67cae505deba22c7484f63bf",
     "/sa-corona-stats/assets/js/materialize.min.js": "c843f0dc497314574c608ca28cc742bb041786d5",
     "/sa-corona-stats/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/sa-corona-stats/index.html": "e19b70f48d4cbfcd177eb630abf90747705f9c46",
-    "/sa-corona-stats/main-es2015.eb4b48dfaca079e4afe3.js": "75b45bd7d20795cdff2ae35c8f17faf3daf1d5ca",
-    "/sa-corona-stats/main-es5.eb4b48dfaca079e4afe3.js": "ef15feb10d5eafd469777b6a721fe80331c8088f",
+    "/sa-corona-stats/index.html": "5fef0a438e772bc2d331426bd9ac7193ca5592d8",
+    "/sa-corona-stats/main-es2015.2f497546bd62ef62996a.js": "738d46202c25e07b937db0432a3c12eabb789d00",
+    "/sa-corona-stats/main-es5.2f497546bd62ef62996a.js": "7c48cf3376ba2a9fc691eece3cbf9110a90db9ca",
     "/sa-corona-stats/manifest.webmanifest": "bda1907410655f6b31fa90ee361eb9b40877aa8a",
     "/sa-corona-stats/polyfills-es2015.77734fcd630731c318eb.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
     "/sa-corona-stats/polyfills-es5.02e047bf1b4bcf0013f3.js": "8e2c8d4f4f6cc3778fa1c569cf4ccacc48223dd8",
